@@ -1,0 +1,17 @@
+
+langchain
+langchain-classic
+langchain-core
+langchain-community
+langchain-groq
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
+langgraph
+python-dotenv
+groq
+sentence-transformers
+pypdf
+rank-bm25
+streamlit
+langchain-tavily
